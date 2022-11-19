@@ -1,0 +1,18 @@
+{
+  "name": "javascript-nightwatch-tests",
+  "version": "1.0.0",
+  "description": "Nightwatch testing examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": ["test", "nightwatch", "javascript"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^2.5.1"
+  },
+  "dependencies": {
+    "chromedriver": "^104.0.0"
+  }
+}
