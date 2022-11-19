@@ -1,6 +1,6 @@
 module.exports = {
     "@tags": ["automationexercise1"],
-    AutomationExercise(browser) {
+    logoutUser(browser) {
       const page = browser.page.automationexerciseobject1();
       const email = "warrockpremk@o2.pl"
       const password = "wojciacho"
