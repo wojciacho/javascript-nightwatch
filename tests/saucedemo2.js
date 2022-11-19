@@ -1,7 +1,7 @@
 module.exports = {
   "@tags": ["saucedemo2"],
   Saucedemo(browser) {
-    const page = browser.page.saucedemoobject3();
+    const page = browser.page.saucedemoobject2();
     const mainQuery = "admin";
     const userPassword = "admin";
     const mainQuery2 = "standard_user";
