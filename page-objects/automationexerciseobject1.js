@@ -36,9 +36,6 @@ module.exports = {
         return this
         .click("@logOutEl")
       }
-
-      
-  
     },
   };
   
