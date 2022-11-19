@@ -1,7 +1,7 @@
 module.exports = {
   "@tags": ["itera"],
   Itera(browser) {
-    const page = browser.page.iteraobject1();
+    const page = browser.page.iteraobject();
     const name = "Wojciech";
     const mobileNumber = 123456;
     const emailAddress = "wojciacho@example.com";

@@ -1,7 +1,7 @@
 module.exports = {
   "@tags": ["opencart"],
   Opencart(browser) {
-    const page = browser.page.opencartobject1();
+    const page = browser.page.opencartobject();
 
     page
       .navigate()

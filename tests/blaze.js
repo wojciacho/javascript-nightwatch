@@ -1,7 +1,7 @@
 module.exports = {
   "@tags": ["blaze"],
   Blaze(browser) {
-    const page = browser.page.blazeobject1();
+    const page = browser.page.blazeobject();
     const name = makeRandomString(5);
     const card = "0000 0000 0000 0000";
     const country = "Poland";

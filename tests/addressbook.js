@@ -1,7 +1,7 @@
 module.exports = {
   "@tags": ["addresbook"],
   Addressbook(browser) {
-    const page = browser.page.addressbookobject1();
+    const page = browser.page.addressbookobject();
     const email = "123@123.com";
     const password = "123";
     const name = "Wojciech";
