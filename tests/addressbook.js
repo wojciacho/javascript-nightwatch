@@ -1,5 +1,5 @@
 module.exports = {
-  "@tags": ["addresbook"],
+  "@tags": ["addressbook"],
   Addressbook(browser) {
     const page = browser.page.addressbookobject();
     const email = "123@123.com";
@@ -41,11 +41,15 @@ module.exports = {
       .setWebPage(url)
       .setNumber(number)
       .clickHobby()
+
+      browser
+      .assert.selected("#address_interest_dance")
+
+      page
       .typeNote(note)
       .clickSend();
 
-    browser.assert
-      .selected("#address_interest_dance")
+      browser
       .assert.urlContains("http://a.testaddressbook.com/addresses");
   },
 };
