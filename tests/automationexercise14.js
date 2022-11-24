@@ -1,6 +1,6 @@
 module.exports = {
     "@tags": ["automationexercise14"],
-    addReviewOnProduct(browser) {
+    addToCartFromRecommendedItems(browser) {
       const page = browser.page.automationexerciseobject14();
     
       page
