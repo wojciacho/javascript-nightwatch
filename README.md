@@ -1,7 +1,7 @@
-Practicing automation testing in Nightwatch.js
+# Practicing automation testing in Nightwatch.js
 
-Repository for practicing automation testing by using Nightwatch.js framework.
-Below are websites which I'm using for practice automation testing.
+## Repository for practicing automation testing by using Nightwatch.js framework.
+ Below are websites which I'm using for practice automation testing:
 
 * https://automationexercise.com,
 * http://a.testaddressbook.com,
