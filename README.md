@@ -12,4 +12,5 @@
 * https://itera-qa.azurewebsites.net/home/automation,
 * https://magento.softwaretestingboard.com,
 * https://demo.opencart.com/index.php?route=common/home&language=en-gb,
-* https://parabank.parasoft.com/parabank/index.htm
+* https://parabank.parasoft.com/parabank/index.htm,
+* https://computer-database.gatling.io/computers
