@@ -14,4 +14,5 @@
 * https://demo.opencart.com/index.php?route=common/home&language=en-gb,
 * https://parabank.parasoft.com/parabank/index.htm,
 * https://computer-database.gatling.io/computers,
-* https://demo.openmrs.org/openmrs/login.htm
+* https://demo.openmrs.org/openmrs/login.htm,
+* https://demo.nopcommerce.com/
